@@ -1,0 +1,14 @@
+body{background-color:#001326;
+padding: 0;
+margin: 0;
+text-align: center;}
+h1{text-align: center;color: #84a9ac;font-family:fantasy;
+margin-top: 20px;margin-bottom: 20px;
+}
+img{height: 220px;border-radius: 30%;}
+.row{margin: 0;font-weight: bold;}
+.row a{text-decoration: none;}
+.card{box-shadow:-1px 1px 5px  #98ded9;}
+ .collapse{opacity: 0.6;}
+ 
+ .
